@@ -1,6 +1,6 @@
 /**
-* Template Name: Techie - v3.0.0
-* Template URL: https://bootstrapmade.com/techie-free-skin-bootstrap-3/
+* Template Name: Trivices - v3.0.0
+* Template URL: https://bootstrapmade.com/Trivices-free-skin-bootstrap-3/
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
 */
